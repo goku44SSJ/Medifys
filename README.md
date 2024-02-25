@@ -5,4 +5,4 @@ Install the flutter dependencies
 open the complete folder and in the terminal use flutter run to run the application
 You can also download the application from the website
 
-medifys.netlify.app
+https://medifys.netlify.app
